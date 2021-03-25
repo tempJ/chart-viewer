@@ -1,69 +1,65 @@
 "use strict";
 
-// Copyright (c) 2021 by couth (https://codepen.io/iamcouth/pen/dKVmqb)
-Highcharts.setOptions({
-    global: {
-        useUTC: false
-    }
-});
-
-// Create the chart
-Highcharts.stockChart('container', {
-    chart: {
-        events: {
-            load: function () {
-                // set up the updating of the chart each second
-                var series = this.series[0];
-                setInterval(function () {
-                    var x = (new Date()).getTime(), // current time
-                    y = Math.round(Math.random() * 100);
-                    series.addPoint([x, y], true, true);
-                }, 1000);
-            }
-        }
-    },
-    
-    rangeSelector: {
-        buttons: [{
-            count: 1,
-            type: 'minute',
-            text: '1M'
-        },
-        {
-            count: 5,
-            type: 'minute',
-            text: '5M'
-        }, {
-            type: 'all',
-            text: 'All'
-        }],
-        inputEnabled: false,
-        selected: 0
-    },
-
-    title: {
-        text: 'Live random data'
-    },
-
+Highcharts.chart('container', {
     exporting: {
         enabled: false
     },
 
-    series: [{
-        name: 'Random data',
-        data: (function () {
-            // generate an array of random data
-            var data = [],
-            time = (new Date()).getTime(),
-            i;
+    yAxis: {
+        title: null
+    },
 
-            for (i = -999; i <= 0; i += 1) {
-                data.push([
-                    time + i * 1000,
-                    Math.round(Math.random() * 100)
-                ]);
-            }
-            return data;
-        }())
+    legend: {
+        layout: 'vertical',
+        align: 'right',
+        verticalAlign: 'top'
+    },
+    series: [{
+        name: 'Rand',
+        data: randLoad()
+    }, {
+        name: 'CSV',
+        data: csvLoad()
     }]
 });
+
+function randLoad() {
+    const data = [];
+    var i;
+    for(i=1; i<=1000; i++) {
+        data.push([
+            Math.round(Math.random()*100)
+        ]);
+    }
+    console.log(data);
+    return data;
+}
+
+function csvLoad() {
+
+
+    // console.log(req);
+    // fetch("/chart", {
+    //     method: "POST",
+    //     headers: {
+    //         "Content-Type": "application/json",
+    //         "Accept": "application/json",
+    //     },
+    //     body: JSON.stringify(req),
+    // })
+    //     .then((res) => res.json())
+    //     .then((res) => {
+    //         if(res.success) ;//chart에 data 깔기
+        //     else {
+        //         if(res.err) return console.log(JSON.stringify(res.err));
+        //         console.log(JSON.stringify(res.msg));
+        //     }
+        // })
+        // .catch((err) => {
+            // console.error("")
+        // });
+}
+
+function binLoad() {
+
+}

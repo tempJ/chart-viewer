@@ -1,6 +1,6 @@
 "use strict";
 
-const User = require("../../models/User.js");
+const Data = require("../../models/Data");
 const logger = require("../../config/logger");
 
 const output = {
@@ -16,8 +16,8 @@ const output = {
 
 const process = {
     chart: async (req, res) =>{
-        const user = new User(req.body);
-        const response = user.chart();
+        const data = new Data(req.body);
+        const response = data.csvLoad();
 
         const url = {
             method: "POST",
