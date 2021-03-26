@@ -18,7 +18,12 @@ class DataStorage{
 
     static isError(err, data) {
         if(err) throw err;
-        console.log(data);
+        console.log(data[0]);
+
+        // var dataSet = [];
+        // for(var i=0; i<data.length; i++){
+        //     dataSet.push(data[i]);
+        // }
     }
 
     // ==================================================================
@@ -27,7 +32,18 @@ class DataStorage{
     // ------------------------------------------------------------------
 
     static #getCsvData(){
-        const datas = d3.csv("../bin/data/data.csv");
+        const datas = d3.csv("../bin/data/data.csv", function(error, data){
+            if(error) throw error;
+        });
+
+        // const datas = [];
+        // d3.csv("../bin/data/data.csv", function(error, data){
+        //     if(error) throw error;
+        //     data.forEach(element => {
+        //         datas.push(parseFloat(element));
+        //     });
+        // });
+
         return datas;
     }
 }

@@ -28,7 +28,7 @@ class DataLoad{
     }
 
     static csvLoad() {
-        console.log(req);
+        const data = [];
         fetch("/chart", {
             method: "POST",
             headers: {

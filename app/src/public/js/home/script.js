@@ -36,28 +36,31 @@ function randLoad() {
 }
 
 function csvLoad() {
-
-
-    // console.log(req);
-    // fetch("/chart", {
-    //     method: "POST",
-    //     headers: {
-    //         "Content-Type": "application/json",
-    //         "Accept": "application/json",
-    //     },
-    //     body: JSON.stringify(req),
-    // })
-    //     .then((res) => res.json())
-    //     .then((res) => {
-    //         if(res.success) ;//chart에 data 깔기
-        //     else {
-        //         if(res.err) return console.log(JSON.stringify(res.err));
-        //         console.log(JSON.stringify(res.msg));
-        //     }
-        // })
-        // .catch((err) => {
-            // console.error("")
-        // });
+    const data = [];
+    console.log(req);
+    fetch("/chart", {
+        method: "POST",
+        headers: {
+            "Content-Type": "application/json",
+            "Accept": "application/json",
+        },
+        body: JSON.stringify(req),
+    })
+        .then((res) => res.json())
+        .then((res) => {
+            if(res.success){
+                data.forEach(element => {
+                    data.push(parseFloat(element));
+                });
+            }//chart에 data 깔기
+            else {
+                if(res.err) return console.log(JSON.stringify(res.err));
+                console.log(JSON.stringify(res.msg));
+            }
+        })
+        .catch((err) => {
+            console.error("");
+        });
 }
 
 function binLoad() {
