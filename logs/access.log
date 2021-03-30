@@ -110,3 +110,357 @@
 2021-03-25 15:16:04 [Back-end] info: GET /chart
 2021-03-25 15:16:04 [Back-end] info: 1000 PORT - server
 2021-03-25 16:00:04 [Back-end] info: 1000 PORT - server
+2021-03-29 10:13:01 [Back-end] info: 1000 PORT - server
+2021-03-29 10:13:01 [Back-end] info: GET /chart
+2021-03-29 10:14:01 [Back-end] info: 1000 PORT - server
+2021-03-29 10:14:01 [Back-end] info: GET /chart
+2021-03-29 10:16:01 [Back-end] info: 1000 PORT - server
+2021-03-29 10:16:01 [Back-end] info: GET /chart
+2021-03-29 10:16:01 [Back-end] info: 1000 PORT - server
+2021-03-29 10:16:01 [Back-end] info: GET /chart
+2021-03-29 10:17:01 [Back-end] info: 1000 PORT - server
+2021-03-29 10:17:01 [Back-end] info: GET /chart
+2021-03-29 10:18:01 [Back-end] info: 1000 PORT - server
+2021-03-29 10:18:01 [Back-end] info: GET /chart
+2021-03-29 10:22:01 [Back-end] info: 1000 PORT - server
+2021-03-29 10:22:01 [Back-end] info: 1000 PORT - server
+2021-03-29 10:22:01 [Back-end] info: GET /chart
+2021-03-29 10:25:01 [Back-end] info: 1000 PORT - server
+2021-03-29 10:25:01 [Back-end] info: GET /chart
+2021-03-29 11:24:01 [Back-end] info: 1000 PORT - server
+2021-03-29 11:24:01 [Back-end] info: 1000 PORT - server
+2021-03-29 11:25:01 [Back-end] info: 1000 PORT - server
+2021-03-29 11:25:01 [Back-end] info: GET /chart
+2021-03-29 11:29:01 [Back-end] info: 1000 PORT - server
+2021-03-29 11:29:01 [Back-end] info: GET /chart
+2021-03-29 11:31:01 [Back-end] info: 1000 PORT - server
+2021-03-29 11:31:01 [Back-end] info: 1000 PORT - server
+2021-03-29 11:31:01 [Back-end] info: GET /chart
+2021-03-29 11:31:01 [Back-end] error: POST /chart 400 res: false ReferenceError: fetch is not defined
+2021-03-29 11:33:01 [Back-end] info: 1000 PORT - server
+2021-03-29 11:33:01 [Back-end] info: GET /chart
+2021-03-29 11:33:01 [Back-end] error: POST /chart 400 res: false ReferenceError: fetch is not defined
+2021-03-29 11:33:01 [Back-end] info: GET /chart
+2021-03-29 11:33:01 [Back-end] error: POST /chart 400 res: false ReferenceError: fetch is not defined
+2021-03-29 11:34:01 [Back-end] info: 1000 PORT - server
+2021-03-29 11:34:01 [Back-end] info: GET /chart
+2021-03-29 11:34:01 [Back-end] info: 1000 PORT - server
+2021-03-29 11:34:01 [Back-end] info: GET /chart
+2021-03-29 11:34:01 [Back-end] error: POST /chart 400 res: false ReferenceError: fetch is not defined
+2021-03-29 11:38:01 [Back-end] info: 1000 PORT - server
+2021-03-29 11:38:01 [Back-end] info: GET /chart
+2021-03-29 11:38:01 [Back-end] error: POST /chart 400 res: false ReferenceError: fetch is not defined
+2021-03-29 11:39:01 [Back-end] info: 1000 PORT - server
+2021-03-29 11:39:01 [Back-end] info: GET /chart
+2021-03-29 11:39:01 [Back-end] error: POST /chart 400 res: false ReferenceError: fetch is not defined
+2021-03-29 11:39:01 [Back-end] info: 1000 PORT - server
+2021-03-29 11:39:01 [Back-end] info: GET /chart
+2021-03-29 11:39:01 [Back-end] error: POST /chart 400 res: false ReferenceError: fetch is not defined
+2021-03-29 11:43:01 [Back-end] info: 1000 PORT - server
+2021-03-29 11:43:01 [Back-end] info: GET /chart
+2021-03-29 11:43:01 [Back-end] error: POST /chart 400 res: false ReferenceError: fetch is not defined
+2021-03-29 11:50:01 [Back-end] info: 1000 PORT - server
+2021-03-29 11:50:01 [Back-end] info: GET /chart
+2021-03-29 11:54:01 [Back-end] info: 1000 PORT - server
+2021-03-29 11:54:01 [Back-end] info: 1000 PORT - server
+2021-03-29 11:56:01 [Back-end] info: GET /chart
+2021-03-29 11:56:01 [Back-end] error: POST /chart 400 res: false ReferenceError: fetch is not defined
+2021-03-29 13:02:01 [Back-end] info: GET /chart
+2021-03-29 13:02:01 [Back-end] error: POST /chart 400 res: false ReferenceError: fetch is not defined
+2021-03-29 13:02:01 [Back-end] info: 1000 PORT - server
+2021-03-29 13:02:01 [Back-end] info: GET /chart
+2021-03-29 13:02:01 [Back-end] error: POST /chart 400 res: false ReferenceError: fetch is not defined
+2021-03-29 13:02:01 [Back-end] info: 1000 PORT - server
+2021-03-29 14:32:01 [Back-end] info: GET /chart
+2021-03-29 14:32:01 [Back-end] error: POST /chart 400 res: false ReferenceError: fetch is not defined
+2021-03-29 14:32:01 [Back-end] info: GET /chart
+2021-03-29 14:32:01 [Back-end] error: POST /chart 400 res: false ReferenceError: fetch is not defined
+2021-03-29 14:33:01 [Back-end] error: POST /chart 400 res: false ReferenceError: fetch is not defined
+2021-03-29 14:34:01 [Back-end] error: POST /chart 400 res: false ReferenceError: fetch is not defined
+2021-03-29 14:37:01 [Back-end] info: 1000 PORT - server
+2021-03-29 15:11:01 [Back-end] info: 1000 PORT - server
+2021-03-29 15:12:01 [Back-end] info: 1000 PORT - server
+2021-03-29 15:13:01 [Back-end] info: GET /chart
+2021-03-29 15:13:01 [Back-end] info: POST /chart 200 res: undefined 
+2021-03-29 15:16:01 [Back-end] info: 1000 PORT - server
+2021-03-29 15:17:01 [Back-end] info: GET /chart
+2021-03-29 15:17:01 [Back-end] error: POST /chart 400 res: false TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+2021-03-29 15:19:01 [Back-end] info: 1000 PORT - server
+2021-03-29 15:19:01 [Back-end] info: GET /chart
+2021-03-29 15:19:01 [Back-end] error: POST /chart 400 res: false TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+2021-03-29 15:19:01 [Back-end] info: 1000 PORT - server
+2021-03-29 15:25:01 [Back-end] info: 1000 PORT - server
+2021-03-29 15:25:01 [Back-end] info: GET /chart
+2021-03-29 15:25:01 [Back-end] error: POST /chart 400 res: false TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+2021-03-29 15:25:01 [Back-end] info: 1000 PORT - server
+2021-03-29 15:25:01 [Back-end] info: 1000 PORT - server
+2021-03-29 15:26:01 [Back-end] error: POST /chart 400 res: false TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+2021-03-29 15:26:01 [Back-end] info: GET /chart
+2021-03-29 15:26:01 [Back-end] error: POST /chart 400 res: false TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+2021-03-29 18:44:01 [Back-end] info: 1000 PORT - server
+2021-03-29 18:45:01 [Back-end] info: GET /chart
+2021-03-29 18:45:01 [Back-end] error: POST /chart 400 res: false TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+2021-03-29 18:53:01 [Back-end] info: GET /chart
+2021-03-29 18:53:01 [Back-end] error: POST /chart 400 res: false TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+2021-03-29 18:57:01 [Back-end] info: 1000 PORT - server
+2021-03-29 18:57:01 [Back-end] info: GET /chart
+2021-03-29 18:57:01 [Back-end] error: POST /chart 400 res: false TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+2021-03-29 18:58:01 [Back-end] info: 1000 PORT - server
+2021-03-29 18:58:01 [Back-end] info: GET /chart
+2021-03-29 18:58:01 [Back-end] error: POST /chart 400 res: false TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+2021-03-29 18:59:01 [Back-end] info: 1000 PORT - server
+2021-03-29 18:59:01 [Back-end] info: GET /chart
+2021-03-29 18:59:01 [Back-end] error: POST /chart 400 res: false TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+2021-03-29 19:00:01 [Back-end] info: 1000 PORT - server
+2021-03-29 19:00:01 [Back-end] info: GET /chart
+2021-03-29 19:00:01 [Back-end] error: POST /chart 400 res: false TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+2021-03-29 19:01:01 [Back-end] info: 1000 PORT - server
+2021-03-29 19:01:01 [Back-end] info: GET /chart
+2021-03-29 19:01:01 [Back-end] error: POST /chart 400 res: false TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+2021-03-29 19:02:01 [Back-end] info: 1000 PORT - server
+2021-03-29 19:02:01 [Back-end] info: 1000 PORT - server
+2021-03-29 19:02:01 [Back-end] info: 1000 PORT - server
+2021-03-29 19:02:01 [Back-end] info: GET /chart
+2021-03-29 19:02:01 [Back-end] error: POST /chart 400 res: false TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+2021-03-29 19:02:01 [Back-end] info: 1000 PORT - server
+2021-03-29 19:02:01 [Back-end] info: GET /chart
+2021-03-29 19:02:01 [Back-end] error: POST /chart 400 res: false TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+2021-03-29 19:03:01 [Back-end] info: 1000 PORT - server
+2021-03-29 19:03:01 [Back-end] info: GET /chart
+2021-03-29 19:03:01 [Back-end] error: POST /chart 400 res: false TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+2021-03-29 19:04:01 [Back-end] info: 1000 PORT - server
+2021-03-29 19:04:01 [Back-end] info: GET /chart
+2021-03-29 19:04:01 [Back-end] error: POST /chart 400 res: false TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+2021-03-29 19:04:01 [Back-end] info: 1000 PORT - server
+2021-03-29 19:04:01 [Back-end] info: GET /chart
+2021-03-29 19:04:01 [Back-end] error: POST /chart 400 res: false TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+2021-03-29 19:04:01 [Back-end] info: 1000 PORT - server
+2021-03-29 19:04:01 [Back-end] info: GET /chart
+2021-03-29 19:04:01 [Back-end] error: POST /chart 400 res: false TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+2021-03-29 19:06:01 [Back-end] info: 1000 PORT - server
+2021-03-29 19:06:01 [Back-end] info: GET /chart
+2021-03-29 19:06:01 [Back-end] error: POST /chart 400 res: false TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+2021-03-29 19:08:01 [Back-end] info: 1000 PORT - server
+2021-03-29 19:08:01 [Back-end] info: GET /chart
+2021-03-29 19:08:01 [Back-end] error: POST /chart 400 res: false TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+2021-03-29 19:08:01 [Back-end] info: 1000 PORT - server
+2021-03-29 19:08:01 [Back-end] info: GET /chart
+2021-03-29 19:08:01 [Back-end] error: POST /chart 400 res: false TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+2021-03-29 19:09:01 [Back-end] info: 1000 PORT - server
+2021-03-30 16:19:02 [Back-end] info: GET /chart
+2021-03-30 16:19:02 [Back-end] error: POST /chart 400 res: false TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+2021-03-30 16:20:02 [Back-end] info: 1000 PORT - server
+2021-03-30 16:20:02 [Back-end] info: GET /chart
+2021-03-30 16:20:02 [Back-end] error: POST /chart 400 res: false TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+2021-03-30 16:21:02 [Back-end] info: 1000 PORT - server
+2021-03-30 16:21:02 [Back-end] info: GET /chart
+2021-03-30 16:21:02 [Back-end] error: POST /chart 400 res: false TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+2021-03-30 16:21:02 [Back-end] info: 1000 PORT - server
+2021-03-30 16:21:02 [Back-end] info: 1000 PORT - server
+2021-03-30 16:21:02 [Back-end] info: GET /chart
+2021-03-30 16:21:02 [Back-end] error: POST /chart 400 res: false TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+2021-03-30 16:21:02 [Back-end] info: 1000 PORT - server
+2021-03-30 16:21:02 [Back-end] info: GET /chart
+2021-03-30 16:21:02 [Back-end] error: POST /chart 400 res: false TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+2021-03-30 16:25:02 [Back-end] info: 1000 PORT - server
+2021-03-30 16:26:02 [Back-end] info: GET /chart
+2021-03-30 16:26:02 [Back-end] error: POST /chart 400 res: false TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+2021-03-30 16:26:02 [Back-end] info: 1000 PORT - server
+2021-03-30 16:26:02 [Back-end] info: GET /chart
+2021-03-30 16:26:02 [Back-end] error: POST /chart 400 res: false TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+2021-03-30 16:26:02 [Back-end] info: 1000 PORT - server
+2021-03-30 16:26:02 [Back-end] info: GET /chart
+2021-03-30 16:26:02 [Back-end] error: POST /chart 400 res: false TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+2021-03-30 16:29:02 [Back-end] info: 1000 PORT - server
+2021-03-30 16:29:02 [Back-end] info: GET /chart
+2021-03-30 16:29:02 [Back-end] error: POST /chart 400 res: false TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+2021-03-30 16:30:02 [Back-end] info: 1000 PORT - server
+2021-03-30 16:30:02 [Back-end] info: GET /chart
+2021-03-30 16:30:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 16:30:02 [Back-end] info: 1000 PORT - server
+2021-03-30 16:30:02 [Back-end] info: GET /chart
+2021-03-30 16:30:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 16:32:02 [Back-end] info: 1000 PORT - server
+2021-03-30 16:32:02 [Back-end] info: GET /chart
+2021-03-30 16:32:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 16:32:02 [Back-end] info: 1000 PORT - server
+2021-03-30 16:32:02 [Back-end] info: 1000 PORT - server
+2021-03-30 16:32:02 [Back-end] info: GET /chart
+2021-03-30 16:32:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 16:33:02 [Back-end] info: 1000 PORT - server
+2021-03-30 16:33:02 [Back-end] info: GET /chart
+2021-03-30 16:33:02 [Back-end] error: POST /chart 400 res: false TypeError: Cannot destructure property 'err' of '(intermediate value)' as it is undefined.
+2021-03-30 16:34:02 [Back-end] info: 1000 PORT - server
+2021-03-30 16:34:02 [Back-end] info: GET /chart
+2021-03-30 16:34:02 [Back-end] error: POST /chart 400 res: false TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received 'utf-8'
+2021-03-30 16:34:02 [Back-end] info: 1000 PORT - server
+2021-03-30 16:34:02 [Back-end] info: GET /chart
+2021-03-30 16:34:02 [Back-end] error: POST /chart 400 res: false TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+2021-03-30 18:57:02 [Back-end] info: 1000 PORT - server
+2021-03-30 18:58:02 [Back-end] info: 1000 PORT - server
+2021-03-30 19:20:02 [Back-end] info: 1000 PORT - server
+2021-03-30 19:20:02 [Back-end] info: GET /chart
+2021-03-30 19:20:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 19:25:02 [Back-end] info: 1000 PORT - server
+2021-03-30 19:25:02 [Back-end] info: GET /chart
+2021-03-30 19:25:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 19:28:02 [Back-end] info: 1000 PORT - server
+2021-03-30 19:28:02 [Back-end] info: GET /chart
+2021-03-30 19:28:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 19:32:02 [Back-end] info: 1000 PORT - server
+2021-03-30 19:32:02 [Back-end] info: 1000 PORT - server
+2021-03-30 19:32:02 [Back-end] info: GET /chart
+2021-03-30 19:32:02 [Back-end] error: POST /chart 400 res: false ReferenceError: readFile is not defined
+2021-03-30 19:32:02 [Back-end] info: 1000 PORT - server
+2021-03-30 19:32:02 [Back-end] info: GET /chart
+2021-03-30 19:32:02 [Back-end] error: POST /chart 400 res: false ReferenceError: readFile is not defined
+2021-03-30 19:33:02 [Back-end] info: 1000 PORT - server
+2021-03-30 19:33:02 [Back-end] info: GET /chart
+2021-03-30 19:33:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 19:34:02 [Back-end] info: 1000 PORT - server
+2021-03-30 19:34:02 [Back-end] info: GET /chart
+2021-03-30 19:34:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 19:34:02 [Back-end] info: 1000 PORT - server
+2021-03-30 19:34:02 [Back-end] info: GET /chart
+2021-03-30 19:34:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 19:34:02 [Back-end] info: 1000 PORT - server
+2021-03-30 19:34:02 [Back-end] info: GET /chart
+2021-03-30 19:34:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 19:35:02 [Back-end] info: 1000 PORT - server
+2021-03-30 19:35:02 [Back-end] info: GET /chart
+2021-03-30 19:35:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 19:35:02 [Back-end] info: 1000 PORT - server
+2021-03-30 19:35:02 [Back-end] info: GET /chart
+2021-03-30 19:35:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 19:35:02 [Back-end] info: 1000 PORT - server
+2021-03-30 19:35:02 [Back-end] info: GET /chart
+2021-03-30 19:35:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 19:35:02 [Back-end] info: 1000 PORT - server
+2021-03-30 19:35:02 [Back-end] info: GET /chart
+2021-03-30 19:35:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 19:41:02 [Back-end] info: 1000 PORT - server
+2021-03-30 19:41:02 [Back-end] info: GET /chart
+2021-03-30 19:41:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 19:44:02 [Back-end] info: 1000 PORT - server
+2021-03-30 19:44:02 [Back-end] info: GET /chart
+2021-03-30 19:44:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 19:44:02 [Back-end] info: 1000 PORT - server
+2021-03-30 19:44:02 [Back-end] info: 1000 PORT - server
+2021-03-30 19:44:02 [Back-end] info: GET /chart
+2021-03-30 19:44:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 19:45:02 [Back-end] info: 1000 PORT - server
+2021-03-30 19:45:02 [Back-end] info: 1000 PORT - server
+2021-03-30 19:45:02 [Back-end] info: GET /chart
+2021-03-30 19:45:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 19:47:02 [Back-end] info: 1000 PORT - server
+2021-03-30 19:47:02 [Back-end] info: GET /chart
+2021-03-30 19:47:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 19:47:02 [Back-end] info: 1000 PORT - server
+2021-03-30 19:47:02 [Back-end] info: GET /chart
+2021-03-30 19:47:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 19:54:02 [Back-end] info: 1000 PORT - server
+2021-03-30 19:55:02 [Back-end] info: 1000 PORT - server
+2021-03-30 19:55:02 [Back-end] info: 1000 PORT - server
+2021-03-30 19:55:02 [Back-end] info: GET /chart
+2021-03-30 19:55:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 19:55:02 [Back-end] info: 1000 PORT - server
+2021-03-30 19:55:02 [Back-end] info: GET /chart
+2021-03-30 19:55:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 19:55:02 [Back-end] info: 1000 PORT - server
+2021-03-30 19:55:02 [Back-end] info: GET /chart
+2021-03-30 19:55:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 19:56:02 [Back-end] info: 1000 PORT - server
+2021-03-30 19:56:02 [Back-end] info: GET /chart
+2021-03-30 19:56:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 19:58:02 [Back-end] info: 1000 PORT - server
+2021-03-30 19:59:02 [Back-end] info: 1000 PORT - server
+2021-03-30 19:59:02 [Back-end] info: GET /chart
+2021-03-30 19:59:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 19:59:02 [Back-end] info: 1000 PORT - server
+2021-03-30 19:59:02 [Back-end] info: GET /chart
+2021-03-30 19:59:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 20:11:02 [Back-end] info: 1000 PORT - server
+2021-03-30 20:11:02 [Back-end] info: GET /chart
+2021-03-30 20:12:02 [Back-end] info: 1000 PORT - server
+2021-03-30 20:12:02 [Back-end] info: GET /chart
+2021-03-30 20:14:02 [Back-end] info: 1000 PORT - server
+2021-03-30 20:14:02 [Back-end] info: GET /chart
+2021-03-30 20:14:02 [Back-end] info: 1000 PORT - server
+2021-03-30 20:14:02 [Back-end] info: GET /chart
+2021-03-30 20:14:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 20:15:02 [Back-end] info: 1000 PORT - server
+2021-03-30 20:15:02 [Back-end] info: 1000 PORT - server
+2021-03-30 20:15:02 [Back-end] info: GET /chart
+2021-03-30 20:15:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 20:16:02 [Back-end] info: 1000 PORT - server
+2021-03-30 20:16:02 [Back-end] info: GET /chart
+2021-03-30 20:16:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 20:18:02 [Back-end] info: 1000 PORT - server
+2021-03-30 20:18:02 [Back-end] info: GET /chart
+2021-03-30 20:19:02 [Back-end] info: 1000 PORT - server
+2021-03-30 20:19:02 [Back-end] info: GET /chart
+2021-03-30 20:19:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 20:19:02 [Back-end] info: 1000 PORT - server
+2021-03-30 20:19:02 [Back-end] info: GET /chart
+2021-03-30 20:19:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 20:19:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 20:19:02 [Back-end] info: 1000 PORT - server
+2021-03-30 20:19:02 [Back-end] info: GET /chart
+2021-03-30 20:19:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 20:20:02 [Back-end] info: 1000 PORT - server
+2021-03-30 20:20:02 [Back-end] info: GET /chart
+2021-03-30 20:20:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 20:20:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 20:20:02 [Back-end] info: 1000 PORT - server
+2021-03-30 20:20:02 [Back-end] info: GET /chart
+2021-03-30 20:20:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 20:20:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 20:21:02 [Back-end] info: 1000 PORT - server
+2021-03-30 20:21:02 [Back-end] info: GET /chart
+2021-03-30 20:21:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 20:21:02 [Back-end] info: 1000 PORT - server
+2021-03-30 20:21:02 [Back-end] info: GET /chart
+2021-03-30 20:21:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 20:21:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 20:29:02 [Back-end] info: 1000 PORT - server
+2021-03-30 20:29:02 [Back-end] info: GET /chart
+2021-03-30 20:29:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 20:29:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 20:29:02 [Back-end] info: GET /chart
+2021-03-30 20:29:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 20:29:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 20:30:02 [Back-end] info: GET /chart
+2021-03-30 20:30:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 20:30:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 20:32:02 [Back-end] info: 1000 PORT - server
+2021-03-30 20:32:02 [Back-end] info: GET /chart
+2021-03-30 20:32:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 20:32:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 20:32:02 [Back-end] info: 1000 PORT - server
+2021-03-30 20:32:02 [Back-end] info: GET /chart
+2021-03-30 20:32:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 20:32:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 20:33:02 [Back-end] info: 1000 PORT - server
+2021-03-30 20:33:02 [Back-end] info: GET /chart
+2021-03-30 20:33:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 20:33:02 [Back-end] info: 1000 PORT - server
+2021-03-30 20:33:02 [Back-end] info: GET /chart
+2021-03-30 20:33:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 20:35:02 [Back-end] info: 1000 PORT - server
+2021-03-30 20:35:02 [Back-end] info: 1000 PORT - server
+2021-03-30 20:35:02 [Back-end] info: GET /chart
+2021-03-30 20:35:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 20:35:02 [Back-end] info: 1000 PORT - server
+2021-03-30 20:35:02 [Back-end] info: GET /chart
+2021-03-30 20:35:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 20:37:02 [Back-end] info: 1000 PORT - server
+2021-03-30 20:37:02 [Back-end] info: GET /chart
+2021-03-30 20:37:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 20:37:02 [Back-end] info: GET /chart
+2021-03-30 20:37:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 20:38:02 [Back-end] info: 1000 PORT - server
+2021-03-30 20:38:02 [Back-end] info: GET /chart
+2021-03-30 20:38:02 [Back-end] info: POST /chart 200 res: true load success
+2021-03-30 20:38:02 [Back-end] info: 1000 PORT - server
+2021-03-30 20:38:02 [Back-end] info: GET /chart
+2021-03-30 20:38:02 [Back-end] info: POST /chart 200 res: true load success

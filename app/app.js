@@ -3,6 +3,8 @@
 const express = require("express");
 const bparser = require("body-parser");
 const dotenv = require("dotenv");
+// const fetch = require("isomorphic-fetch");
+// const fetch = require("node-fetch");
 // const d3 = require("d3");
 
 const app = express();

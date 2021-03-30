@@ -4,9 +4,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="https://code.highcharts.com/stock/highstock.js"></script>
+    <!-- <script src="https://code.highcharts.com/stock/highstock.js"></script>
     <script src="https://code.highcharts.com/stock/modules/exporting.js"></script>
-    <script src="https://code.highcharts.com/stock/modules/export-data.js"></script>
+    <script src="https://code.highcharts.com/stock/modules/export-data.js"></script> -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.min.js"></script>
     <link rel="stylesheet" href="/css/home/chart.css">
     <script src="/js/home/script.js" defer></script>
     <title>Chart</title>
@@ -18,7 +19,11 @@
         <button id="csv-load-btn">.csv Load</button>
     </div> -->
 
-    <div id="container" class="chart"></div>
+    <!-- <div id="container" class="chart"></div> -->
+
+    <div class="chart">
+        <canvas id="container"></canvas>
+    </div>
 </body>
 </html>
 

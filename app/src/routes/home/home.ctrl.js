@@ -16,9 +16,11 @@ const output = {
 
 const process = {
     chart: async (req, res) =>{
+        // console.log(req);
         const data = new Data(req.body);
-        const response = data.csvLoad();
-
+        const response = await data.csvLoad();
+        // console.log(response);
+        // console.log(response);
         const url = {
             method: "POST",
             path: "/chart",
