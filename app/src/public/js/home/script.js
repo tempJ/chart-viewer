@@ -1,17 +1,26 @@
 "use strict";
-const item = csvLoad();
-console.log(item[1]);
+
+
+
 var ctx = document.getElementById("container").getContext("2d");
 var dataChart = new Chart(ctx, {
     type: 'line',
-    data: item
+    data: dataSeries()
     // series: [{
     //     data: csvLoad()
     // }]
     // data: randLoad()
 });
-
+// console.log(csvLoad())
 // console.log(json.stringify(csvLoad()));
+
+async function dataSeries() {
+    const csvPromise = csvLoad();
+    const csvData = await csvPromise;
+    // console.log(csvData);
+
+    return csvData;
+}
 
 
 // Highcharts.chart('container', {
@@ -49,7 +58,7 @@ function randLoad() {
     return data;
 }
 
-function csvLoad() {
+async function csvLoad() {
     const req = {
         // fileName: "C:/Users/kh.kim/ex/chart-viewer/app/bin/data/data.csv"
         fileName: "./app/bin/data/data.csv"
