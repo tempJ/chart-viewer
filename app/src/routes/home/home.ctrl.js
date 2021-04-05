@@ -17,8 +17,9 @@ const output = {
 const process = {
     chart: async (req, res) =>{
         // console.log(req);
+        // console.log(res);
         const data = new Data(req.body);
-        const response = await data.csvLoad();
+        const response = await data.dataLoad(); //bin도 가능하게 수정
         // console.log(response);
         // console.log(response);
         const url = {

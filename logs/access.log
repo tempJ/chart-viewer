@@ -526,3 +526,492 @@
 2021-03-31 23:55:03 [Back-end] info: POST /chart 200 res: true load success
 2021-03-31 23:55:03 [Back-end] info: GET /chart
 2021-03-31 23:55:03 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 13:27:04 [Back-end] info: 1000 PORT - server
+2021-04-01 13:27:04 [Back-end] info: GET /chart
+2021-04-01 13:27:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 13:27:04 [Back-end] info: GET /chart
+2021-04-01 13:27:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 13:27:04 [Back-end] info: GET /chart
+2021-04-01 13:27:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 13:27:04 [Back-end] info: GET /chart
+2021-04-01 13:27:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 13:27:04 [Back-end] info: GET /chart
+2021-04-01 13:27:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 13:27:04 [Back-end] info: GET /chart
+2021-04-01 13:27:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 13:27:04 [Back-end] info: GET /chart
+2021-04-01 13:27:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 13:27:04 [Back-end] info: GET /chart
+2021-04-01 13:27:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 13:28:04 [Back-end] info: 1000 PORT - server
+2021-04-01 13:28:04 [Back-end] info: GET /chart
+2021-04-01 13:28:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 13:28:04 [Back-end] info: GET /chart
+2021-04-01 13:28:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 13:28:04 [Back-end] info: GET /chart
+2021-04-01 13:28:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 13:31:04 [Back-end] info: 1000 PORT - server
+2021-04-01 13:31:04 [Back-end] info: GET /chart
+2021-04-01 13:31:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 13:32:04 [Back-end] info: 1000 PORT - server
+2021-04-01 13:32:04 [Back-end] info: GET /chart
+2021-04-01 13:32:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 13:33:04 [Back-end] info: 1000 PORT - server
+2021-04-01 13:33:04 [Back-end] info: GET /chart
+2021-04-01 13:33:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 13:34:04 [Back-end] info: 1000 PORT - server
+2021-04-01 13:34:04 [Back-end] info: 1000 PORT - server
+2021-04-01 13:34:04 [Back-end] info: GET /chart
+2021-04-01 13:34:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 13:34:04 [Back-end] info: GET /chart
+2021-04-01 13:34:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 13:34:04 [Back-end] info: 1000 PORT - server
+2021-04-01 13:34:04 [Back-end] info: GET /chart
+2021-04-01 13:34:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 13:34:04 [Back-end] info: 1000 PORT - server
+2021-04-01 13:35:04 [Back-end] info: 1000 PORT - server
+2021-04-01 13:35:04 [Back-end] info: GET /chart
+2021-04-01 13:35:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 13:35:04 [Back-end] info: GET /chart
+2021-04-01 13:35:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 13:35:04 [Back-end] info: 1000 PORT - server
+2021-04-01 13:35:04 [Back-end] info: GET /chart
+2021-04-01 13:35:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 13:35:04 [Back-end] info: GET /chart
+2021-04-01 13:35:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 13:35:04 [Back-end] info: 1000 PORT - server
+2021-04-01 13:36:04 [Back-end] info: 1000 PORT - server
+2021-04-01 13:36:04 [Back-end] info: GET /chart
+2021-04-01 13:36:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 13:36:04 [Back-end] info: GET /chart
+2021-04-01 13:36:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 13:36:04 [Back-end] info: 1000 PORT - server
+2021-04-01 13:36:04 [Back-end] info: GET /chart
+2021-04-01 13:36:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 13:37:04 [Back-end] info: 1000 PORT - server
+2021-04-01 13:37:04 [Back-end] info: 1000 PORT - server
+2021-04-01 13:37:04 [Back-end] info: 1000 PORT - server
+2021-04-01 13:37:04 [Back-end] info: GET /chart
+2021-04-01 13:37:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 13:39:04 [Back-end] info: 1000 PORT - server
+2021-04-01 13:39:04 [Back-end] info: GET /chart
+2021-04-01 13:39:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 13:40:04 [Back-end] info: 1000 PORT - server
+2021-04-01 13:40:04 [Back-end] info: GET /chart
+2021-04-01 13:40:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 13:42:04 [Back-end] info: 1000 PORT - server
+2021-04-01 13:42:04 [Back-end] info: GET /chart
+2021-04-01 13:42:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 13:42:04 [Back-end] info: 1000 PORT - server
+2021-04-01 13:42:04 [Back-end] info: 1000 PORT - server
+2021-04-01 13:46:04 [Back-end] info: 1000 PORT - server
+2021-04-01 13:51:04 [Back-end] info: 1000 PORT - server
+2021-04-01 13:51:04 [Back-end] info: GET /chart
+2021-04-01 13:52:04 [Back-end] info: 1000 PORT - server
+2021-04-01 13:52:04 [Back-end] info: GET /chart
+2021-04-01 13:53:04 [Back-end] info: 1000 PORT - server
+2021-04-01 13:53:04 [Back-end] info: GET /chart
+2021-04-01 13:54:04 [Back-end] info: 1000 PORT - server
+2021-04-01 13:54:04 [Back-end] info: GET /chart
+2021-04-01 13:54:04 [Back-end] info: 1000 PORT - server
+2021-04-01 13:54:04 [Back-end] info: GET /chart
+2021-04-01 13:54:04 [Back-end] info: GET /chart
+2021-04-01 13:54:04 [Back-end] info: GET /chart
+2021-04-01 13:54:04 [Back-end] info: GET /chart
+2021-04-01 13:54:04 [Back-end] info: GET /chart
+2021-04-01 13:55:04 [Back-end] info: GET /chart
+2021-04-01 13:57:04 [Back-end] info: GET /chart
+2021-04-01 14:00:04 [Back-end] info: 1000 PORT - server
+2021-04-01 14:00:04 [Back-end] info: GET /chart
+2021-04-01 14:00:04 [Back-end] info: GET /chart
+2021-04-01 14:00:04 [Back-end] info: GET /chart
+2021-04-01 14:02:04 [Back-end] info: 1000 PORT - server
+2021-04-01 14:02:04 [Back-end] info: GET /chart
+2021-04-01 14:04:04 [Back-end] info: 1000 PORT - server
+2021-04-01 14:04:04 [Back-end] info: GET /chart
+2021-04-01 14:04:04 [Back-end] info: GET /chart
+2021-04-01 14:04:04 [Back-end] info: GET /chart
+2021-04-01 14:04:04 [Back-end] info: GET /chart
+2021-04-01 14:04:04 [Back-end] info: GET /chart
+2021-04-01 14:04:04 [Back-end] info: GET /chart
+2021-04-01 14:04:04 [Back-end] info: GET /chart
+2021-04-01 14:04:04 [Back-end] info: GET /chart
+2021-04-01 14:04:04 [Back-end] info: GET /chart
+2021-04-01 14:04:04 [Back-end] info: 1000 PORT - server
+2021-04-01 14:04:04 [Back-end] info: GET /chart
+2021-04-01 14:04:04 [Back-end] info: GET /chart
+2021-04-01 14:04:04 [Back-end] info: GET /chart
+2021-04-01 14:18:04 [Back-end] info: 1000 PORT - server
+2021-04-01 14:18:04 [Back-end] info: 1000 PORT - server
+2021-04-01 14:18:04 [Back-end] info: GET /chart
+2021-04-01 14:24:04 [Back-end] info: 1000 PORT - server
+2021-04-01 14:24:04 [Back-end] info: 1000 PORT - server
+2021-04-01 14:24:04 [Back-end] info: GET /chart
+2021-04-01 14:25:04 [Back-end] info: 1000 PORT - server
+2021-04-01 14:25:04 [Back-end] info: GET /chart
+2021-04-01 14:25:04 [Back-end] info: GET /chart
+2021-04-01 14:25:04 [Back-end] info: 1000 PORT - server
+2021-04-01 14:25:04 [Back-end] info: GET /chart
+2021-04-01 14:26:04 [Back-end] info: 1000 PORT - server
+2021-04-01 14:26:04 [Back-end] info: 1000 PORT - server
+2021-04-01 14:26:04 [Back-end] info: GET /chart
+2021-04-01 14:37:04 [Back-end] info: 1000 PORT - server
+2021-04-01 14:37:04 [Back-end] info: GET /chart
+2021-04-01 14:38:04 [Back-end] info: 1000 PORT - server
+2021-04-01 14:38:04 [Back-end] info: GET /chart
+2021-04-01 14:38:04 [Back-end] info: 1000 PORT - server
+2021-04-01 14:38:04 [Back-end] info: GET /chart
+2021-04-01 14:39:04 [Back-end] info: 1000 PORT - server
+2021-04-01 14:39:04 [Back-end] info: GET /chart
+2021-04-01 14:39:04 [Back-end] info: 1000 PORT - server
+2021-04-01 14:39:04 [Back-end] info: GET /chart
+2021-04-01 14:39:04 [Back-end] info: 1000 PORT - server
+2021-04-01 14:41:04 [Back-end] info: 1000 PORT - server
+2021-04-01 14:41:04 [Back-end] info: 1000 PORT - server
+2021-04-01 14:41:04 [Back-end] info: 1000 PORT - server
+2021-04-01 14:41:04 [Back-end] info: GET /chart
+2021-04-01 14:41:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 14:42:04 [Back-end] info: 1000 PORT - server
+2021-04-01 14:42:04 [Back-end] info: GET /chart
+2021-04-01 14:42:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 14:43:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 14:43:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 14:43:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 14:49:04 [Back-end] info: 1000 PORT - server
+2021-04-01 14:49:04 [Back-end] info: GET /chart
+2021-04-01 14:50:04 [Back-end] info: 1000 PORT - server
+2021-04-01 14:50:04 [Back-end] info: GET /chart
+2021-04-01 14:51:04 [Back-end] info: 1000 PORT - server
+2021-04-01 14:51:04 [Back-end] info: GET /chart
+2021-04-01 14:51:04 [Back-end] info: 1000 PORT - server
+2021-04-01 14:51:04 [Back-end] info: GET /chart
+2021-04-01 14:56:04 [Back-end] info: 1000 PORT - server
+2021-04-01 14:56:04 [Back-end] info: GET /chart
+2021-04-01 14:56:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 15:11:04 [Back-end] info: 1000 PORT - server
+2021-04-01 15:11:04 [Back-end] info: GET /chart
+2021-04-01 15:11:04 [Back-end] info: 1000 PORT - server
+2021-04-01 15:11:04 [Back-end] info: GET /chart
+2021-04-01 15:11:04 [Back-end] info: GET /chart
+2021-04-01 15:11:04 [Back-end] info: 1000 PORT - server
+2021-04-01 15:11:04 [Back-end] info: GET /chart
+2021-04-01 15:13:04 [Back-end] info: 1000 PORT - server
+2021-04-01 15:13:04 [Back-end] info: GET /chart
+2021-04-01 15:13:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 15:18:04 [Back-end] info: 1000 PORT - server
+2021-04-01 15:18:04 [Back-end] info: GET /chart
+2021-04-01 15:18:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 15:18:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 15:20:04 [Back-end] info: 1000 PORT - server
+2021-04-01 15:20:04 [Back-end] info: GET /chart
+2021-04-01 15:20:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 15:20:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 15:26:04 [Back-end] info: 1000 PORT - server
+2021-04-01 15:26:04 [Back-end] info: GET /chart
+2021-04-01 15:26:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 15:26:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 15:26:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 15:26:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 15:26:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 15:26:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 15:26:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 15:26:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 15:26:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 16:23:04 [Back-end] info: 1000 PORT - server
+2021-04-01 16:27:04 [Back-end] info: GET /chart
+2021-04-01 16:27:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 16:27:04 [Back-end] info: 1000 PORT - server
+2021-04-01 16:27:04 [Back-end] info: GET /chart
+2021-04-01 16:27:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 16:27:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 16:28:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 16:28:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 16:28:04 [Back-end] info: 1000 PORT - server
+2021-04-01 16:36:04 [Back-end] info: 1000 PORT - server
+2021-04-01 16:36:04 [Back-end] info: GET /chart
+2021-04-01 18:26:04 [Back-end] info: 1000 PORT - server
+2021-04-01 18:26:04 [Back-end] info: GET /chart
+2021-04-01 18:27:04 [Back-end] info: 1000 PORT - server
+2021-04-01 18:27:04 [Back-end] info: GET /chart
+2021-04-01 18:28:04 [Back-end] info: 1000 PORT - server
+2021-04-01 18:28:04 [Back-end] info: GET /chart
+2021-04-01 18:28:04 [Back-end] info: 1000 PORT - server
+2021-04-01 18:28:04 [Back-end] info: GET /chart
+2021-04-01 18:31:04 [Back-end] info: 1000 PORT - server
+2021-04-01 18:31:04 [Back-end] info: GET /chart
+2021-04-01 18:32:04 [Back-end] info: 1000 PORT - server
+2021-04-01 18:32:04 [Back-end] info: GET /chart
+2021-04-01 18:32:04 [Back-end] info: 1000 PORT - server
+2021-04-01 18:32:04 [Back-end] info: GET /chart
+2021-04-01 18:33:04 [Back-end] info: 1000 PORT - server
+2021-04-01 18:33:04 [Back-end] info: GET /chart
+2021-04-01 18:33:04 [Back-end] info: GET /chart
+2021-04-01 18:33:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 18:33:04 [Back-end] info: 1000 PORT - server
+2021-04-01 18:34:04 [Back-end] info: GET /chart
+2021-04-01 18:34:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 18:34:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 18:34:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 18:44:04 [Back-end] info: 1000 PORT - server
+2021-04-01 18:44:04 [Back-end] info: GET /chart
+2021-04-01 18:45:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 18:45:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 18:45:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 18:46:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 18:46:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 18:46:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 18:46:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 18:46:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 18:46:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 18:46:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 18:46:04 [Back-end] info: 1000 PORT - server
+2021-04-01 18:46:04 [Back-end] info: GET /chart
+2021-04-01 18:46:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 18:46:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 18:46:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 18:46:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 18:46:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 18:47:04 [Back-end] info: 1000 PORT - server
+2021-04-01 18:47:04 [Back-end] info: 1000 PORT - server
+2021-04-01 18:48:04 [Back-end] info: 1000 PORT - server
+2021-04-01 18:49:04 [Back-end] info: 1000 PORT - server
+2021-04-01 18:52:04 [Back-end] info: 1000 PORT - server
+2021-04-01 18:52:04 [Back-end] info: 1000 PORT - server
+2021-04-01 18:52:04 [Back-end] info: 1000 PORT - server
+2021-04-01 18:52:04 [Back-end] info: GET /chart
+2021-04-01 18:52:04 [Back-end] error: POST /chart 400 res: false TypeError: Cannot read property 'fileName' of undefined
+2021-04-01 18:52:04 [Back-end] info: 1000 PORT - server
+2021-04-01 18:52:04 [Back-end] info: GET /chart
+2021-04-01 18:52:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 18:52:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 18:53:04 [Back-end] info: 1000 PORT - server
+2021-04-01 18:53:04 [Back-end] info: GET /chart
+2021-04-01 18:53:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 18:53:04 [Back-end] info: 1000 PORT - server
+2021-04-01 18:53:04 [Back-end] info: GET /chart
+2021-04-01 18:53:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 18:53:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 18:54:04 [Back-end] info: 1000 PORT - server
+2021-04-01 18:54:04 [Back-end] info: GET /chart
+2021-04-01 18:55:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 18:55:04 [Back-end] info: 1000 PORT - server
+2021-04-01 18:55:04 [Back-end] info: GET /chart
+2021-04-01 18:55:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 18:56:04 [Back-end] info: 1000 PORT - server
+2021-04-01 18:56:04 [Back-end] info: 1000 PORT - server
+2021-04-01 18:57:04 [Back-end] info: GET /chart
+2021-04-01 18:57:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 18:57:04 [Back-end] info: 1000 PORT - server
+2021-04-01 18:57:04 [Back-end] info: GET /chart
+2021-04-01 18:57:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 18:57:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 18:57:04 [Back-end] info: 1000 PORT - server
+2021-04-01 19:04:04 [Back-end] info: 1000 PORT - server
+2021-04-01 19:09:04 [Back-end] info: 1000 PORT - server
+2021-04-01 19:09:04 [Back-end] info: GET /chart
+2021-04-01 19:09:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 19:09:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 19:09:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 19:09:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 19:09:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 19:09:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 19:11:04 [Back-end] info: 1000 PORT - server
+2021-04-01 19:11:04 [Back-end] info: GET /chart
+2021-04-01 19:11:04 [Back-end] info: POST /chart 200 res: true load success
+2021-04-01 19:14:04 [Back-end] info: 1000 PORT - server
+2021-04-01 19:14:04 [Back-end] info: GET /chart
+2021-04-01 19:17:04 [Back-end] info: 1000 PORT - server
+2021-04-01 19:17:04 [Back-end] info: GET /chart
+2021-04-01 19:19:04 [Back-end] info: 1000 PORT - server
+2021-04-01 19:19:04 [Back-end] info: GET /chart
+2021-04-01 19:19:04 [Back-end] info: GET /chart
+2021-04-01 19:19:04 [Back-end] info: GET /chart
+2021-04-01 19:19:04 [Back-end] info: GET /chart
+2021-04-01 19:19:04 [Back-end] info: GET /chart
+2021-04-01 19:19:04 [Back-end] info: GET /chart
+2021-04-01 19:19:04 [Back-end] info: GET /chart
+2021-04-01 19:19:04 [Back-end] info: GET /chart
+2021-04-01 19:19:04 [Back-end] info: GET /chart
+2021-04-02 10:34:05 [Back-end] info: GET /chart
+2021-04-02 10:40:05 [Back-end] info: 1000 PORT - server
+2021-04-02 10:40:05 [Back-end] info: GET /chart
+2021-04-02 10:40:05 [Back-end] info: GET /chart
+2021-04-02 10:40:05 [Back-end] info: GET /chart
+2021-04-02 10:42:05 [Back-end] info: 1000 PORT - server
+2021-04-02 10:42:05 [Back-end] info: GET /chart
+2021-04-02 10:42:05 [Back-end] info: GET /chart
+2021-04-02 10:42:05 [Back-end] info: GET /chart
+2021-04-02 10:42:05 [Back-end] info: GET /chart
+2021-04-02 10:48:05 [Back-end] info: GET /chart
+2021-04-02 10:48:05 [Back-end] info: GET /chart
+2021-04-02 10:48:05 [Back-end] info: 1000 PORT - server
+2021-04-02 10:48:05 [Back-end] info: GET /chart
+2021-04-02 10:48:05 [Back-end] info: POST /chart 200 res: true load success
+2021-04-02 10:50:05 [Back-end] info: GET /chart
+2021-04-02 10:50:05 [Back-end] info: POST /chart 200 res: true load success
+2021-04-02 10:50:05 [Back-end] info: GET /chart
+2021-04-02 10:50:05 [Back-end] info: POST /chart 200 res: true load success
+2021-04-02 10:50:05 [Back-end] info: GET /chart
+2021-04-02 10:50:05 [Back-end] info: POST /chart 200 res: true load success
+2021-04-02 10:51:05 [Back-end] info: 1000 PORT - server
+2021-04-02 10:51:05 [Back-end] info: GET /chart
+2021-04-02 10:57:05 [Back-end] info: 1000 PORT - server
+2021-04-02 10:57:05 [Back-end] info: GET /chart
+2021-04-02 11:59:05 [Back-end] info: GET /
+2021-04-02 12:40:05 [Back-end] info: 1000 PORT - server
+2021-04-02 12:43:05 [Back-end] info: 1000 PORT - server
+2021-04-02 16:29:05 [Back-end] info: 1000 PORT - server
+2021-04-02 16:29:05 [Back-end] info: GET /chart
+2021-04-02 16:29:05 [Back-end] info: POST /chart 200 res: true load success
+2021-04-02 16:30:05 [Back-end] info: GET /chart
+2021-04-02 16:30:05 [Back-end] info: POST /chart 200 res: true load success
+2021-04-02 16:38:05 [Back-end] info: 1000 PORT - server
+2021-04-02 16:38:05 [Back-end] info: 1000 PORT - server
+2021-04-02 16:51:05 [Back-end] info: 1000 PORT - server
+2021-04-02 16:51:05 [Back-end] info: 1000 PORT - server
+2021-04-02 16:52:05 [Back-end] info: GET /chart
+2021-04-02 16:52:05 [Back-end] error: POST /chart 400 res: false invalid data format
+2021-04-02 16:52:05 [Back-end] info: 1000 PORT - server
+2021-04-02 16:52:05 [Back-end] info: GET /chart
+2021-04-02 16:53:05 [Back-end] error: POST /chart 400 res: false invalid data format
+2021-04-02 16:53:05 [Back-end] info: 1000 PORT - server
+2021-04-02 16:53:05 [Back-end] info: GET /chart
+2021-04-02 16:53:05 [Back-end] error: POST /chart 400 res: false invalid data format
+2021-04-02 16:56:05 [Back-end] info: 1000 PORT - server
+2021-04-02 16:56:05 [Back-end] info: GET /chart
+2021-04-02 16:56:05 [Back-end] info: POST /chart 200 res: true load csv data
+2021-04-02 16:57:05 [Back-end] info: 1000 PORT - server
+2021-04-02 16:57:05 [Back-end] info: 1000 PORT - server
+2021-04-02 16:57:05 [Back-end] info: GET /chart
+2021-04-02 16:57:05 [Back-end] info: POST /chart 200 res: true load csv data
+2021-04-02 16:58:05 [Back-end] info: 1000 PORT - server
+2021-04-02 16:59:05 [Back-end] info: GET /chart
+2021-04-02 16:59:05 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-02 17:23:05 [Back-end] info: 1000 PORT - server
+2021-04-02 17:23:05 [Back-end] info: GET /chart
+2021-04-02 17:23:05 [Back-end] info: GET /chart
+2021-04-02 17:23:05 [Back-end] error: POST /chart 400 res: false TypeError: DataStorage.getBinData is not a function
+2021-04-02 17:32:05 [Back-end] info: 1000 PORT - server
+2021-04-02 17:32:05 [Back-end] info: GET /chart
+2021-04-02 17:32:05 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-02 17:32:05 [Back-end] info: 1000 PORT - server
+2021-04-02 17:32:05 [Back-end] info: GET /chart
+2021-04-02 17:32:05 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-02 17:33:05 [Back-end] info: 1000 PORT - server
+2021-04-02 17:33:05 [Back-end] info: GET /chart
+2021-04-02 17:33:05 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-02 17:33:05 [Back-end] info: 1000 PORT - server
+2021-04-02 17:33:05 [Back-end] info: GET /chart
+2021-04-02 17:33:05 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-02 17:34:05 [Back-end] info: 1000 PORT - server
+2021-04-02 17:34:05 [Back-end] info: GET /chart
+2021-04-02 17:34:05 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-02 17:38:05 [Back-end] info: 1000 PORT - server
+2021-04-02 17:38:05 [Back-end] info: GET /chart
+2021-04-02 17:38:05 [Back-end] error: POST /chart 400 res: false TypeError: DataStorage.getBinData is not a function
+2021-04-02 17:45:05 [Back-end] info: 1000 PORT - server
+2021-04-02 17:45:05 [Back-end] info: GET /chart
+2021-04-02 17:45:05 [Back-end] error: POST /chart 400 res: false TypeError: DataStorage.getBinData is not a function
+2021-04-02 17:52:05 [Back-end] info: 1000 PORT - server
+2021-04-02 17:52:05 [Back-end] info: 1000 PORT - server
+2021-04-02 17:52:05 [Back-end] info: GET /chart
+2021-04-02 17:52:05 [Back-end] error: POST /chart 400 res: false TypeError: DataStorage.getBinData is not a function
+2021-04-02 17:57:05 [Back-end] info: 1000 PORT - server
+2021-04-02 17:57:05 [Back-end] info: GET /chart
+2021-04-02 17:57:05 [Back-end] error: POST /chart 400 res: false TypeError: DataStorage.getBinData is not a function
+2021-04-02 17:57:05 [Back-end] info: 1000 PORT - server
+2021-04-02 17:57:05 [Back-end] info: GET /chart
+2021-04-02 17:57:05 [Back-end] error: POST /chart 400 res: false TypeError: DataStorage.getBinData is not a function
+2021-04-02 17:58:05 [Back-end] info: 1000 PORT - server
+2021-04-02 17:58:05 [Back-end] info: GET /chart
+2021-04-02 17:58:05 [Back-end] error: POST /chart 400 res: false TypeError: DataStorage.getBinData is not a function
+2021-04-02 17:59:05 [Back-end] info: 1000 PORT - server
+2021-04-02 17:59:05 [Back-end] info: 1000 PORT - server
+2021-04-02 17:59:05 [Back-end] info: GET /chart
+2021-04-02 17:59:05 [Back-end] error: POST /chart 400 res: false TypeError: DataStorage.getBinData is not a function
+2021-04-02 17:59:05 [Back-end] info: 1000 PORT - server
+2021-04-02 17:59:05 [Back-end] info: GET /chart
+2021-04-02 17:59:05 [Back-end] error: POST /chart 400 res: false TypeError: DataStorage.getBinData is not a function
+2021-04-02 17:59:05 [Back-end] info: POST /chart 200 res: true load csv data
+2021-04-02 18:00:05 [Back-end] info: 1000 PORT - server
+2021-04-02 18:00:05 [Back-end] info: GET /chart
+2021-04-02 18:00:05 [Back-end] error: POST /chart 400 res: false TypeError: DataStorage.getBinData is not a function
+2021-04-02 18:00:05 [Back-end] info: 1000 PORT - server
+2021-04-02 18:02:05 [Back-end] error: POST /chart 400 res: false TypeError: DataStorage.getBinData is not a function
+2021-04-02 18:02:05 [Back-end] error: POST /chart 400 res: false TypeError: DataStorage.getBinData is not a function
+2021-04-02 18:03:05 [Back-end] info: 1000 PORT - server
+2021-04-02 18:03:05 [Back-end] info: GET /chart
+2021-04-02 18:03:05 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-02 18:04:05 [Back-end] info: 1000 PORT - server
+2021-04-02 18:04:05 [Back-end] info: GET /chart
+2021-04-02 18:04:05 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-02 18:05:05 [Back-end] info: 1000 PORT - server
+2021-04-02 18:05:05 [Back-end] info: GET /chart
+2021-04-02 18:05:05 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-02 18:41:05 [Back-end] info: GET /
+2021-04-02 18:41:05 [Back-end] info: GET /
+2021-04-02 18:44:05 [Back-end] info: 1000 PORT - server
+2021-04-02 18:44:05 [Back-end] info: GET /chart
+2021-04-02 18:44:05 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-02 18:45:05 [Back-end] info: 1000 PORT - server
+2021-04-02 18:45:05 [Back-end] info: GET /chart
+2021-04-02 18:45:05 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-02 18:46:05 [Back-end] info: 1000 PORT - server
+2021-04-02 18:46:05 [Back-end] info: GET /chart
+2021-04-02 18:46:05 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-02 18:46:05 [Back-end] info: 1000 PORT - server
+2021-04-02 18:46:05 [Back-end] info: GET /chart
+2021-04-02 18:46:05 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-05 12:26:01 [Back-end] info: 1000 PORT - server
+2021-04-05 12:27:01 [Back-end] info: GET /chart
+2021-04-05 12:27:01 [Back-end] info: POST /chart 200 res: true load csv data
+2021-04-05 12:27:01 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-05 12:42:01 [Back-end] info: 1000 PORT - server
+2021-04-05 12:42:01 [Back-end] info: GET /chart
+2021-04-05 12:42:01 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-05 12:44:01 [Back-end] info: 1000 PORT - server
+2021-04-05 12:44:01 [Back-end] info: GET /chart
+2021-04-05 12:44:01 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-05 12:46:01 [Back-end] info: 1000 PORT - server
+2021-04-05 12:46:01 [Back-end] info: GET /chart
+2021-04-05 12:46:01 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-05 12:46:01 [Back-end] info: 1000 PORT - server
+2021-04-05 12:46:01 [Back-end] info: GET /chart
+2021-04-05 12:46:01 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-05 12:52:01 [Back-end] info: GET /
+2021-04-05 12:56:01 [Back-end] info: 1000 PORT - server
+2021-04-05 12:56:01 [Back-end] info: GET /chart
+2021-04-05 12:56:01 [Back-end] error: POST /chart 400 res: false ReferenceError: FileReader is not defined
+2021-04-05 12:57:01 [Back-end] info: 1000 PORT - server
+2021-04-05 12:57:01 [Back-end] info: GET /chart
+2021-04-05 12:57:01 [Back-end] error: POST /chart 400 res: false ReferenceError: FileReader is not defined
+2021-04-05 12:58:01 [Back-end] info: 1000 PORT - server
+2021-04-05 12:58:01 [Back-end] info: GET /chart
+2021-04-05 12:58:01 [Back-end] error: POST /chart 400 res: false ReferenceError: FileReader is not defined
+2021-04-05 13:03:01 [Back-end] info: 1000 PORT - server
+2021-04-05 13:03:01 [Back-end] info: GET /chart
+2021-04-05 13:03:01 [Back-end] error: POST /chart 400 res: false TypeError: fs.readFileSync is not a function
+2021-04-05 13:07:01 [Back-end] info: 1000 PORT - server
+2021-04-05 13:07:01 [Back-end] info: GET /chart
+2021-04-05 13:07:01 [Back-end] error: POST /chart 400 res: false TypeError: fs.read is not a function
+2021-04-05 13:11:01 [Back-end] info: 1000 PORT - server
+2021-04-05 13:12:01 [Back-end] info: GET /chart
+2021-04-05 13:12:01 [Back-end] error: POST /chart 400 res: false TypeError: binFile.open(...).readFloat is not a function
+2021-04-05 13:42:01 [Back-end] info: GET /chart
+2021-04-05 13:42:01 [Back-end] info: GET /chart
+2021-04-05 13:42:01 [Back-end] info: GET /chart
+2021-04-05 13:42:01 [Back-end] info: GET /chart
+2021-04-05 13:42:01 [Back-end] info: GET /chart
+2021-04-05 13:42:01 [Back-end] info: GET /chart
+2021-04-05 13:45:01 [Back-end] info: POST /chart 200 res: true load csv data
+2021-04-05 14:11:01 [Back-end] info: GET /chart
+2021-04-05 14:13:01 [Back-end] error: POST /chart 400 res: false TypeError: binFile.open(...).readFloat is not a function
+2021-04-05 14:14:01 [Back-end] info: POST /chart 200 res: true load csv data
+2021-04-05 14:14:01 [Back-end] info: GET /chart
+2021-04-05 14:14:01 [Back-end] info: POST /chart 200 res: true load csv data
+2021-04-05 14:25:01 [Back-end] info: 1000 PORT - server
+2021-04-05 14:25:01 [Back-end] info: GET /chart
+2021-04-05 14:25:01 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-05 14:25:01 [Back-end] info: 1000 PORT - server
+2021-04-05 14:25:01 [Back-end] info: GET /chart
+2021-04-05 14:26:01 [Back-end] info: POST /chart 200 res: true load bin data

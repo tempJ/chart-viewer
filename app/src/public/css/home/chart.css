@@ -28,14 +28,14 @@
 - top, left, size for the active state
 - background, color, border for the color palette
 */
-/* button {
+button {
   --top: 50%;
   --left: 50%;
   --size: 100%;
   --background: hsl(265, 100%, 50%);
-  --color: hsl(265, 100%, 100%); */
+  --color: hsl(265, 100%, 100%);
   /* :p */
-  /* --border: none;
+  --border: none;
   color: var(--color);
   background: var(--background);
   border: 1px solid var(--border);
@@ -46,25 +46,26 @@
   border-radius: 5px;
   font-weight: 500;
   text-transform: uppercase;
-  letter-spacing: 1px; */
+  letter-spacing: 1px;
   /* overflow and position matching the pseudo elements */
-  /* overflow: hidden;
-  position: relative; */
+  overflow: hidden;
+  position: relative;
   /* remove the default outline
-! substituted with the pseudo elements
-*/
-  /* outline: none;
-} */
+! substituted with the pseudo elements */
+  outline: none;
+
+  margin-bottom: 10px;
+}
 /* if existing, separate the inline icon from the text which follows */
-/* button svg {
+button svg {
   width: 1em;
   height: auto;
   display: inline-block;
   margin-inline-end: 0.2rem;
-} */
+}
 
 /* with a pseudo element add a semitransparent layer with the same color of the text */
-/* button:before {
+button:before {
   content: "";
   position: absolute;
   top: 0;
@@ -78,7 +79,7 @@
 button:focus:before,
 button:hover:before {
   opacity: 0.1;
-} */
+}
 
 /* with another pseudo element add a semitransparent layer clipped to be a circle */
 /* button:after {

@@ -1,70 +1,107 @@
 "use strict";
 
+// var Chart = require("chart.js");
 
+const randLoadBtn = document.querySelector("#rand-load-btn"),
+    binLoadBtn = document.querySelector("#bin-load-btn"),
+    csvLoadBtn = document.querySelector("#csv-load-btn");
+
+    // var btn = document.getElementById()
+
+randLoadBtn.addEventListener("click", randLoad);
+binLoadBtn.addEventListener("click", binLoad);
+csvLoadBtn.addEventListener("click", csvLoad);
 
 var ctx = document.getElementById("container").getContext("2d");
 var dataChart = new Chart(ctx, {
     type: 'line',
-    data: dataSeries()
-    // series: [{
-    //     data: csvLoad()
-    // }]
-    // data: randLoad()
+    data: {
+        // labels: [""],
+        datasets: [{
+            label: "Rand",
+            // backgroundColor: "hsl(0, 0%, 98%)",
+            borderColor: "#808080",
+            data: [],
+            
+        },{
+            label: "BIN",
+            // backgroundColor: "hsl(0, 0%, 98%)",
+            borderColor: "#1E90FF",
+            data: [],
+            // fill: false
+        },{
+            label: "CSV",
+            // backgroundColor: "hsl(0, 0%, 98%)",
+            borderColor: "#228B22",
+            data: [],
+            // fill: false
+        }],
+        fill: false,
+    },
+    options: {
+        responsive: true,
+        // pan: {
+        //     enabled: true,
+        //     mode: "x",
+        //     speed: 100,
+        //     threshold: 100
+        // },
+        zoom: {
+            enabled: true,
+            drag: true,
+            mode: "x",
+            limits: {
+                max: 10,
+                min: 0.5
+            }
+        }
+    }
 });
-// console.log(csvLoad())
-// console.log(json.stringify(csvLoad()));
 
-async function dataSeries() {
-    const csvPromise = csvLoad();
-    const csvData = await csvPromise;
-    // console.log(csvData);
+function dataAdd(label, data) {
+    var dataset = dataChart.data.datasets;
+    var len = dataChart.data.labels.length;
 
-    return csvData;
+    // for(var i=0; i<dataChart.data.length; i++){
+    //     if(len < 1) dataChart.data.labels.push("");
+    //     if(len < 1) {
+    //         dataset[label].data.push(element);
+    //     }
+    //     else {
+    //         dataset[label].data
+    //     }
+    // }
+    // for(var i=0; i<dataChart.data.length; i++){
+    //     dataset[label].data.pop()
+    // }
+    dataset[label].data = [];
+    // dataset[label].data.splice(0, dataset[label].data.length);
+    // dataChart.update();
+    // dataChart.data.length = 0;
+    // dataset[label].data = null;
+    data.forEach(element =>{
+        // dataChart.data.labels.push("");
+        if(len < 1) dataChart.data.labels.push("");
+        dataset[label].data.push(element);
+    })
+    dataChart.update();
 }
-
-
-// Highcharts.chart('container', {
-//     exporting: {
-//         enabled: false
-//     },
-
-//     yAxis: {
-//         title: null
-//     },
-
-//     legend: {
-//         layout: 'vertical',
-//         align: 'right',
-//         verticalAlign: 'top'
-//     },
-//     series: [{
-//         name: 'Rand',
-//         data: randLoad()
-//     }, {
-//         name: 'CSV',
-//         data: csvLoad()
-//     }]
-// });
 
 function randLoad() {
     const data = [];
-    var i;
-    for(i=1; i<=1000; i++) {
-        data.push([
-            Math.round(Math.random()*100)
-        ]);
+    for(var i=0; i<1000; i++) {
+        var tmp = Math.random()*40;
+        data.push(tmp*(Math.floor(Math.random()*2) == 1 ? 1: -1));
     }
-    console.log(data);
-    return data;
+
+    dataAdd(0, data);
 }
 
-async function csvLoad() {
+function binLoad() {
     const req = {
-        // fileName: "C:/Users/kh.kim/ex/chart-viewer/app/bin/data/data.csv"
-        fileName: "./app/bin/data/data.csv"
+        fileName: "./app/bin/data/data.bin"
     };
-
-    const data = [];
+    
     // console.log(req);
     fetch("/chart", {
         method: "POST",
@@ -76,23 +113,15 @@ async function csvLoad() {
     })
         .then((res) => res.json())
         .then((res) => {
-            // console.log(res);
             if(res.success){
-                // res.data.forEach(function(element) {
-                //     console.log(parseFloat(element));
-                // })
-                // res.data.forEach(element => {
-                //     data.push(parseFloat(element));
-                // });
-                // const data = res.data.map(function(element) {
-                //     return parseFloat(element);
-                // })
+                const data = [];
                 res.data.map(element =>{
                     data.push(parseFloat(element));
                 });
-                console.log(data);
-                return data;
-            }//chart에 data 깔기
+                // console.log(data);
+
+                dataAdd(1, data);
+            }
             else {
                 if(res.err) return console.log(res.err);
                 console.log(res.msg);
@@ -101,6 +130,35 @@ async function csvLoad() {
         .catch(console.error);
 }
 
-function binLoad() {
+async function csvLoad() {
+    const req = {
+        fileName: "./app/bin/data/data.csv"
+    };
+    
+    // console.log(req);
+    fetch("/chart", {
+        method: "POST",
+        headers: {
+            "Content-Type": "application/json",
+            "Accept": "application/json",
+        },
+        body: JSON.stringify(req),
+    })
+        .then((res) => res.json())
+        .then((res) => {
+            if(res.success){
+                const data = [];
+                res.data.map(element =>{
+                    data.push(parseFloat(element));
+                });
+                // console.log(data);
 
+                dataAdd(2, data);
+            }
+            else {
+                if(res.err) return console.log(res.err);
+                console.log(res.msg);
+            }
+        })
+        .catch(console.error);
 }

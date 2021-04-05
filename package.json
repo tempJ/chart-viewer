@@ -19,8 +19,11 @@
   "homepage": "https://github.com/tempJ/chart-viewer#readme",
   "dependencies": {
     "app-root-path": "^3.0.0",
+    "binary-file": "^0.2.3",
     "body-parser": "^1.19.0",
     "bootstrap": "^4.6.0",
+    "chart.js": "^2.9.4",
+    "chartjs-plugin-zoom": "^0.7.7",
     "d3": "^6.6.1",
     "dotenv": "^8.2.0",
     "ejs": "^3.1.6",
