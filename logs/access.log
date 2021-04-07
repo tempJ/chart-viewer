@@ -1015,3 +1015,182 @@
 2021-04-05 14:25:01 [Back-end] info: 1000 PORT - server
 2021-04-05 14:25:01 [Back-end] info: GET /chart
 2021-04-05 14:26:01 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-05 15:52:01 [Back-end] info: 1000 PORT - server
+2021-04-05 15:52:01 [Back-end] info: GET /chart
+2021-04-05 15:52:01 [Back-end] info: GET /chart
+2021-04-05 15:52:01 [Back-end] info: GET /chart
+2021-04-05 15:52:01 [Back-end] info: GET /chart
+2021-04-05 15:53:01 [Back-end] info: GET /chart
+2021-04-05 15:53:01 [Back-end] error: POST /chart 400 res: false TypeError: fs.read is not a function
+2021-04-05 15:53:01 [Back-end] info: 1000 PORT - server
+2021-04-05 15:53:01 [Back-end] info: GET /chart
+2021-04-05 15:53:01 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-05 15:57:01 [Back-end] info: 1000 PORT - server
+2021-04-05 15:57:01 [Back-end] info: 1000 PORT - server
+2021-04-05 15:58:01 [Back-end] info: 1000 PORT - server
+2021-04-05 15:58:01 [Back-end] info: GET /chart
+2021-04-05 15:58:01 [Back-end] info: POST /chart 200 res: true load csv data
+2021-04-05 15:58:01 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-05 16:22:01 [Back-end] info: GET /chart
+2021-04-05 16:22:01 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-05 16:23:01 [Back-end] info: 1000 PORT - server
+2021-04-05 16:23:01 [Back-end] info: GET /chart
+2021-04-05 16:23:01 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-05 16:23:01 [Back-end] info: 1000 PORT - server
+2021-04-05 16:23:01 [Back-end] info: GET /chart
+2021-04-05 16:23:01 [Back-end] info: POST /chart 200 res: true load csv data
+2021-04-05 16:23:01 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-05 16:23:01 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-05 16:59:01 [Back-end] info: GET /chart
+2021-04-05 16:59:01 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-05 17:04:01 [Back-end] info: 1000 PORT - server
+2021-04-05 17:04:01 [Back-end] info: GET /chart
+2021-04-05 17:04:01 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-05 17:05:01 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-05 17:06:01 [Back-end] info: 1000 PORT - server
+2021-04-05 17:06:01 [Back-end] info: GET /chart
+2021-04-05 17:06:01 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-05 17:11:01 [Back-end] info: 1000 PORT - server
+2021-04-05 17:11:01 [Back-end] info: GET /chart
+2021-04-05 17:11:01 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-05 17:13:01 [Back-end] info: 1000 PORT - server
+2021-04-05 17:13:01 [Back-end] info: GET /chart
+2021-04-05 17:13:01 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-05 17:14:01 [Back-end] info: 1000 PORT - server
+2021-04-05 17:14:01 [Back-end] info: GET /chart
+2021-04-05 17:14:01 [Back-end] error: POST /chart 400 res: false TypeError: fs.open(...).then(...).then(...).close is not a function
+2021-04-05 17:14:01 [Back-end] info: 1000 PORT - server
+2021-04-05 17:14:01 [Back-end] info: GET /chart
+2021-04-05 17:14:01 [Back-end] error: POST /chart 400 res: false TypeError: fs.close is not a function
+2021-04-05 17:16:01 [Back-end] info: 1000 PORT - server
+2021-04-05 17:16:01 [Back-end] info: GET /chart
+2021-04-05 17:16:01 [Back-end] error: POST /chart 400 res: false ReferenceError: fd is not defined
+2021-04-05 17:48:01 [Back-end] info: 1000 PORT - server
+2021-04-05 17:48:01 [Back-end] info: GET /chart
+2021-04-05 17:48:01 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-05 17:49:01 [Back-end] info: 1000 PORT - server
+2021-04-05 17:49:01 [Back-end] info: GET /chart
+2021-04-05 17:49:01 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-05 17:50:01 [Back-end] info: 1000 PORT - server
+2021-04-05 17:50:01 [Back-end] info: GET /chart
+2021-04-05 17:50:01 [Back-end] error: POST /chart 400 res: false TypeError [ERR_INVALID_ARG_VALUE]: The argument 'mode' must be a 32-bit unsigned integer or an octal string. Received [Function (anonymous)]
+2021-04-05 17:50:01 [Back-end] info: 1000 PORT - server
+2021-04-05 17:50:01 [Back-end] info: GET /chart
+2021-04-05 17:51:01 [Back-end] error: POST /chart 400 res: false TypeError [ERR_INVALID_ARG_VALUE]: The argument 'mode' must be a 32-bit unsigned integer or an octal string. Received [Function (anonymous)]
+2021-04-05 17:51:01 [Back-end] info: 1000 PORT - server
+2021-04-05 17:51:01 [Back-end] info: GET /chart
+2021-04-05 17:51:01 [Back-end] error: POST /chart 400 res: false TypeError [ERR_INVALID_ARG_VALUE]: The argument 'mode' must be a 32-bit unsigned integer or an octal string. Received [Function (anonymous)]
+2021-04-05 17:51:01 [Back-end] info: 1000 PORT - server
+2021-04-05 17:51:01 [Back-end] info: GET /chart
+2021-04-05 17:51:01 [Back-end] error: POST /chart 400 res: false TypeError [ERR_INVALID_ARG_VALUE]: The argument 'mode' must be a 32-bit unsigned integer or an octal string. Received [Function (anonymous)]
+2021-04-05 17:56:01 [Back-end] info: 1000 PORT - server
+2021-04-05 17:56:01 [Back-end] info: GET /chart
+2021-04-05 17:56:01 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-05 18:24:01 [Back-end] info: 1000 PORT - server
+2021-04-05 18:24:01 [Back-end] info: GET /chart
+2021-04-05 18:24:01 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-05 18:54:01 [Back-end] info: 1000 PORT - server
+2021-04-05 18:54:01 [Back-end] info: GET /chart
+2021-04-05 18:54:01 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-05 18:54:01 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-05 18:55:01 [Back-end] info: 1000 PORT - server
+2021-04-05 18:55:01 [Back-end] info: GET /chart
+2021-04-05 18:55:01 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-05 18:58:01 [Back-end] info: 1000 PORT - server
+2021-04-05 18:59:01 [Back-end] info: GET /chart
+2021-04-05 18:59:01 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-05 19:00:01 [Back-end] info: 1000 PORT - server
+2021-04-05 19:00:01 [Back-end] info: GET /chart
+2021-04-05 19:00:01 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-05 19:00:01 [Back-end] info: 1000 PORT - server
+2021-04-05 19:00:01 [Back-end] info: GET /chart
+2021-04-05 19:00:01 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-05 19:00:01 [Back-end] info: 1000 PORT - server
+2021-04-05 19:00:01 [Back-end] info: GET /chart
+2021-04-05 19:00:01 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-05 19:01:01 [Back-end] info: 1000 PORT - server
+2021-04-05 19:01:01 [Back-end] info: GET /chart
+2021-04-05 19:01:01 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-05 19:01:01 [Back-end] info: 1000 PORT - server
+2021-04-05 19:01:01 [Back-end] info: GET /chart
+2021-04-05 19:01:01 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-05 19:01:01 [Back-end] info: 1000 PORT - server
+2021-04-05 19:01:01 [Back-end] info: GET /chart
+2021-04-05 19:01:01 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-07 23:03:03 [Back-end] info: 1000 PORT - server
+2021-04-07 23:03:03 [Back-end] info: 1000 PORT - server
+2021-04-07 23:04:03 [Back-end] info: GET /chart
+2021-04-07 23:04:03 [Back-end] info: POST /chart 200 res: true load csv data
+2021-04-07 23:04:03 [Back-end] info: POST /chart 200 res: true load csv data
+2021-04-07 23:04:03 [Back-end] info: 1000 PORT - server
+2021-04-07 23:04:03 [Back-end] info: 1000 PORT - server
+2021-04-07 23:08:03 [Back-end] info: 1000 PORT - server
+2021-04-07 23:08:03 [Back-end] info: GET /chart
+2021-04-07 23:08:03 [Back-end] info: POST /chart 200 res: true load csv data
+2021-04-07 23:08:03 [Back-end] info: POST /chart 200 res: true load csv data
+2021-04-07 23:08:03 [Back-end] info: POST /chart 200 res: true load csv data
+2021-04-07 23:08:03 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-07 23:08:03 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-07 23:08:03 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-07 23:10:03 [Back-end] info: 1000 PORT - server
+2021-04-07 23:10:03 [Back-end] info: GET /chart
+2021-04-07 23:10:03 [Back-end] info: POST /chart 200 res: true load csv data
+2021-04-07 23:10:03 [Back-end] info: POST /chart 200 res: true load csv data
+2021-04-07 23:10:03 [Back-end] info: POST /chart 200 res: true load csv data
+2021-04-07 23:11:03 [Back-end] info: 1000 PORT - server
+2021-04-07 23:11:03 [Back-end] info: GET /chart
+2021-04-07 23:11:03 [Back-end] info: POST /chart 200 res: true load csv data
+2021-04-07 23:11:03 [Back-end] info: POST /chart 200 res: true load csv data
+2021-04-07 23:12:03 [Back-end] info: POST /chart 200 res: true load csv data
+2021-04-07 23:12:03 [Back-end] info: POST /chart 200 res: true load csv data
+2021-04-07 23:12:03 [Back-end] info: POST /chart 200 res: true load csv data
+2021-04-07 23:12:03 [Back-end] info: POST /chart 200 res: true load csv data
+2021-04-07 23:12:03 [Back-end] info: GET /chart
+2021-04-07 23:12:03 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-07 23:12:03 [Back-end] info: POST /chart 200 res: true load csv data
+2021-04-07 23:12:03 [Back-end] info: POST /chart 200 res: true load csv data
+2021-04-07 23:12:03 [Back-end] info: POST /chart 200 res: true load csv data
+2021-04-07 23:13:03 [Back-end] info: 1000 PORT - server
+2021-04-07 23:13:03 [Back-end] info: GET /chart
+2021-04-07 23:13:03 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-07 23:14:03 [Back-end] info: 1000 PORT - server
+2021-04-07 23:14:03 [Back-end] info: GET /chart
+2021-04-07 23:14:03 [Back-end] info: POST /chart 200 res: true load csv data
+2021-04-07 23:14:03 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-07 23:15:03 [Back-end] info: 1000 PORT - server
+2021-04-07 23:15:03 [Back-end] info: GET /chart
+2021-04-07 23:15:03 [Back-end] info: POST /chart 200 res: true load csv data
+2021-04-07 23:15:03 [Back-end] info: POST /chart 200 res: true load csv data
+2021-04-07 23:17:03 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-07 23:17:03 [Back-end] info: 1000 PORT - server
+2021-04-07 23:17:03 [Back-end] info: GET /chart
+2021-04-07 23:17:03 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-07 23:17:03 [Back-end] info: POST /chart 200 res: true load csv data
+2021-04-07 23:21:03 [Back-end] info: 1000 PORT - server
+2021-04-07 23:21:03 [Back-end] info: 1000 PORT - server
+2021-04-07 23:21:03 [Back-end] info: GET /chart
+2021-04-07 23:21:03 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-07 23:22:03 [Back-end] info: 1000 PORT - server
+2021-04-07 23:23:03 [Back-end] info: GET /chart
+2021-04-07 23:23:03 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-07 23:24:03 [Back-end] info: 1000 PORT - server
+2021-04-07 23:24:03 [Back-end] info: GET /chart
+2021-04-07 23:24:03 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-07 23:25:03 [Back-end] info: 1000 PORT - server
+2021-04-07 23:25:03 [Back-end] info: GET /chart
+2021-04-07 23:26:03 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-07 23:26:03 [Back-end] info: POST /chart 200 res: true load csv data
+2021-04-07 23:26:03 [Back-end] info: POST /chart 200 res: true load csv data
+2021-04-07 23:26:03 [Back-end] info: POST /chart 200 res: true load csv data
+2021-04-07 23:26:03 [Back-end] info: POST /chart 200 res: true load csv data
+2021-04-07 23:28:03 [Back-end] info: 1000 PORT - server
+2021-04-07 23:28:03 [Back-end] info: GET /chart
+2021-04-07 23:28:03 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-07 23:28:03 [Back-end] info: POST /chart 200 res: true load csv data
+2021-04-07 23:29:03 [Back-end] info: 1000 PORT - server
+2021-04-07 23:29:03 [Back-end] info: 1000 PORT - server
+2021-04-07 23:30:03 [Back-end] info: 1000 PORT - server
+2021-04-07 23:30:03 [Back-end] info: GET /chart
+2021-04-07 23:30:03 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-07 23:30:03 [Back-end] info: POST /chart 200 res: true load bin data
+2021-04-07 23:30:03 [Back-end] info: 1000 PORT - server

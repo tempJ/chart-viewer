@@ -101,41 +101,69 @@ function binLoad() {
     const req = {
         fileName: "./app/bin/data/data.bin"
     };
-    
+    dataFetch(1, req);
     // console.log(req);
-    fetch("/chart", {
-        method: "POST",
-        headers: {
-            "Content-Type": "application/json",
-            "Accept": "application/json",
-        },
-        body: JSON.stringify(req),
-    })
-        .then((res) => res.json())
-        .then((res) => {
-            if(res.success){
-                const data = [];
-                res.data.map(element =>{
-                    data.push(parseFloat(element));
-                });
-                // console.log(data);
+    // fetch("/chart", {
+    //     method: "POST",
+    //     headers: {
+    //         "Content-Type": "application/json",
+    //         "Accept": "application/json",
+    //     },
+    //     body: JSON.stringify(req),
+    // })
+    //     .then((res) => res.json())
+    //     .then((res) => {
+    //         if(res.success){
+    //             const data = [];
+    //             res.data.map(element =>{
+    //                 data.push(element);
+    //             });
+    //             // console.log(data);
 
-                dataAdd(1, data);
-            }
-            else {
-                if(res.err) return console.log(res.err);
-                console.log(res.msg);
-            }
-        })
-        .catch(console.error);
+    //             dataAdd(1, data);
+    //         }
+    //         else {
+    //             if(res.err) return console.log(res.err);
+    //             console.log(res.msg);
+    //         }
+    //     })
+    //     .catch(console.error);
 }
 
 async function csvLoad() {
     const req = {
         fileName: "./app/bin/data/data.csv"
     };
-    
-    // console.log(req);
+    dataFetch(2, req);
+    // // console.log(req);
+    // fetch("/chart", {
+    //     method: "POST",
+    //     headers: {
+    //         "Content-Type": "application/json",
+    //         "Accept": "application/json",
+    //     },
+    //     body: JSON.stringify(req),
+    // })
+    //     .then((res) => res.json())
+    //     .then((res) => {
+    //         if(res.success){
+    //             const data = [];
+    //             res.data.map(element =>{
+    //                 data.push(element);
+    //             });
+    //             // console.log(data);
+
+    //             dataAdd(2, data);
+    //         }
+    //         else {
+    //             if(res.err) return console.log(res.err);
+    //             console.log(res.msg);
+    //         }
+    //     })
+    //     .catch(console.error);
+}
+
+async function dataFetch(label, req) {
     fetch("/chart", {
         method: "POST",
         headers: {
@@ -147,13 +175,14 @@ async function csvLoad() {
         .then((res) => res.json())
         .then((res) => {
             if(res.success){
-                const data = [];
-                res.data.map(element =>{
-                    data.push(parseFloat(element));
-                });
+                // console.log(res.data);
+                // const data = [];
+                // res.data.map(element =>{
+                //     data.push(element);
+                // });
                 // console.log(data);
 
-                dataAdd(2, data);
+                dataAdd(label, res.data);
             }
             else {
                 if(res.err) return console.log(res.err);
