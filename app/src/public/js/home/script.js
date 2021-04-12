@@ -2,65 +2,110 @@
 
 // var Chart = require("chart.js");
 
-const randLoadBtn = document.querySelector("#rand-load-btn"),
+const resetZoomBtn = document.querySelector("#reset-zoom-btn"),
+    randLoadBtn = document.querySelector("#rand-load-btn"),
     binLoadBtn = document.querySelector("#bin-load-btn"),
     csvLoadBtn = document.querySelector("#csv-load-btn");
 
     // var btn = document.getElementById()
 
+resetZoomBtn.addEventListener("click", resetZoom);
 randLoadBtn.addEventListener("click", randLoad);
 binLoadBtn.addEventListener("click", binLoad);
 csvLoadBtn.addEventListener("click", csvLoad);
 
-var ctx = document.getElementById("container").getContext("2d");
-var dataChart = new Chart(ctx, {
+const ctx = document.getElementById("container").getContext("2d");
+const dragOptions = {
+    borderColor: "rgb(105,105,105)",
+    animationDuration: 1000
+};
+
+function dataSets(label, color) {
+    return {
+        label,
+        // backgroundColor: "hsl(0, 0%, 98%)",
+        backgroundColor: color,
+        borderColor: color,
+        borderWidth: 1,
+        data: []
+    };
+}
+
+const dataChart = new Chart(ctx, {
     type: 'line',
     data: {
         // labels: [""],
-        datasets: [{
-            label: "Rand",
-            // backgroundColor: "hsl(0, 0%, 98%)",
-            borderColor: "#808080",
-            data: [],
-            
-        },{
-            label: "BIN",
-            // backgroundColor: "hsl(0, 0%, 98%)",
-            borderColor: "#1E90FF",
-            data: [],
-            // fill: false
-        },{
-            label: "CSV",
-            // backgroundColor: "hsl(0, 0%, 98%)",
-            borderColor: "#228B22",
-            data: [],
-            // fill: false
-        }],
+        datasets: [dataSets("Rand", "#808080"), dataSets("BIN", "#1E90FF"), dataSets("CSV", "#228B22")],
         fill: false,
     },
     options: {
-        responsive: true,
-        // pan: {
-        //     enabled: true,
-        //     mode: "x",
-        //     speed: 100,
-        //     threshold: 100
+        // responsive: false,
+        maintainAspectRatio: false,
+        scales: {
+            xAxes: [{
+                type: "time",
+                gridLines: {
+                    display: false
+                }
+            }],
+            yAxes: [{
+                position: "right"
+            }]
+        },
+        // animation: {
+        //     duration: 0
         // },
-        zoom: {
-            enabled: true,
-            drag: true,
-            mode: "x",
-            limits: {
-                max: 10,
-                min: 0.5
+        elements: {
+            point: {
+                radius: 0.5
+            }
+        },
+        plugins: {
+            legend: {
+                display: true,
+                position: "right",
+                labels: {
+                    boxWidth: 6,
+                    boxHeight: 6
+                }
+            },
+            zoom: {
+                pan: {
+                    enabled: true,
+                    mode: "x",
+                    speed: 10,
+                    threshold: 10,
+                    rangeMin: {
+                        x: null,
+                        y: null
+                    },
+                    rangeMax: {
+                        x: null,
+                        y: null
+                    }
+                },
+                zoom: {
+                    enabled: true,
+                    // drag: true,
+                    drag: dragOptions,
+                    mode: "x",
+                    onZoom: function({chart}) { console.log(`I'm zooming!!!`); },
+                    onZoomComplete: function({chart}) { console.log(`I was zoomed!!!`); },
+                    onZoomRejected: function({chart, event}) { console.log(`I didn't start zooming!`); }
+                }
             }
         }
-    }
+    },
+    
 });
 
+function resetZoom() {
+    dataChart.resetZoom();
+}
+
 function dataAdd(label, data) {
-    var dataset = dataChart.data.datasets;
-    var len = dataChart.data.labels.length;
+    const dataset = dataChart.data.datasets;
+    const len = dataChart.data.labels.length;
 
     // for(var i=0; i<dataChart.data.length; i++){
     //     if(len < 1) dataChart.data.labels.push("");
@@ -75,22 +120,29 @@ function dataAdd(label, data) {
     //     dataset[label].data.pop()
     // }
     dataset[label].data = [];
+    dataChart.data.labels = [];
+    let labels = [];
     // dataset[label].data.splice(0, dataset[label].data.length);
     // dataChart.update();
     // dataChart.data.length = 0;
     // dataset[label].data = null;
+    // console.log(data.length)
+    let i = 1;
     data.forEach(element =>{
-        // dataChart.data.labels.push("");
-        if(len < 1) dataChart.data.labels.push("");
+        labels.push(i);
+        // dataChart.data.labels.push(i);
+        i++;
+        // if(len < 1) dataChart.data.labels.push("");
         dataset[label].data.push(element);
     })
+    dataChart.data.labels = labels;
     dataChart.update();
 }
 
 function randLoad() {
     const data = [];
-    for(var i=0; i<1000; i++) {
-        var tmp = Math.random()*40;
+    for(let i=0; i<1000; i++) {
+        let tmp = Math.random()*40;
         data.push(tmp*(Math.floor(Math.random()*2) == 1 ? 1: -1));
     }
 
@@ -180,7 +232,7 @@ async function dataFetch(label, req) {
                 // res.data.map(element =>{
                 //     data.push(element);
                 // });
-                // console.log(data);
+                // console.log(res.data);
 
                 dataAdd(label, res.data);
             }

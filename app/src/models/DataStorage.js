@@ -1,6 +1,6 @@
 "use strict";
 
-const binaryFile = require("binary-file");
+// const binaryFile = require("binary-file");
 const fs = require("fs").promises;
 
 class DataStorage{
@@ -23,15 +23,23 @@ class DataStorage{
         // console.log(data);
         // 무조건 문자열로 이루어진 데이터의 배열로 return 하도록
         // const datas = data.toString('utf-8').split('\n');
-        const datas = data.toString("utf-8").split('\n').map(Number);
+        // const datas = data.toString("utf-8").split('\r\n');
+        // const datas = data.toString("utf-8").split('\n').map(Number);
+        const datas = data.toString("utf-8").split('\n');
+        // console.log(datas.length);
+        // if(datas[datas.length-1] === 0) console.log("r");
+        // if(datas[datas.length-1] === 0) datas.pop();
+        if(datas[datas.length-1] === "") datas.pop();
         // const datas = [];
         // datas.map(element =>{
         //     data.push(element);
         // });
 
         // const datas = JSON.stringify(data); //file load
+        // if(datas[1000] === "") console.log("r");
         // console.log(datas);
-        return datas;
+        // return datas;
+        return datas.map(Number);
     }
 
 // -------------------------------------------------------------------------------------------------
